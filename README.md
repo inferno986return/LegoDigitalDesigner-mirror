@@ -5,9 +5,9 @@ LEGO have announced they will finally be killing Lego Digital Designer (LDD), th
 
 I have great nostalgia for this software and want to preserve a few models I have floating on my Google Drive. EU-based LEGO fan forum Eurobricks has a brilliant thread encouraging users to upload retail models made in LDD, several of these models are from that. *I do not own Lego Digital Designer and all rights (to my best knowledge) belong to the LEGO Group.*
 
-I also archived the (download page)[https://www.lego.com/en-us/ldd] on (archive.today)[https://archive.fo/rQ6E2].
+I also archived the [(download page)](https://www.lego.com/en-us/ldd) on [archive.today](https://archive.fo/rQ6E2).
 
-LEGO purchased BrickLink and now (BrickLink Studio)[https://www.bricklink.com/v3/studio/download.page] is deemed the successor to LDD. I plan on trying it, particularly when the tagline is "FEEL THE DIFFERENCE".
+LEGO purchased BrickLink and now [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) is deemed the successor to LDD. I plan on trying it, particularly when the tagline is "FEEL THE DIFFERENCE".
 
 ## Only offline mode is supported in LDD 4.3
 
