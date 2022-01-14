@@ -5,9 +5,9 @@ LEGO have announced they will finally be killing Lego Digital Designer (LDD), th
 
 I have great nostalgia for this software and want to preserve a few models I have floating on my Google Drive. EU-based LEGO fan forum Eurobricks has a brilliant thread encouraging users to upload retail models made in LDD, several of these models are from that. *I do not own Lego Digital Designer and all rights (to my best knowledge) belong to the LEGO Group.*
 
-I also archived the download page on archive.today.
+I also archived the (download page)[https://www.lego.com/en-us/ldd] on (archive.today)[https://archive.fo/rQ6E2].
 
-LEGO purchased BrickLink and now BrickLink Studio is deemed the successor to LDD. I plan on trying it out.
+LEGO purchased BrickLink and now (BrickLink Studio)[https://www.bricklink.com/v3/studio/download.page] is deemed the successor to LDD. I plan on trying it, particularly when the tagline is "FEEL THE DIFFERENCE".
 
 ## Only offline mode is supported in LDD 4.3
 
@@ -22,7 +22,7 @@ The official minimum system requirements as taken from the LDD download page. Re
 | OS  | macOS 10.10  | Windows XP, Windows Vista, Windows 7, Windows 8 or Windows 10 |
 | CPU | Intel processor  | 1GHz processor or higher |
 | RAM | 1GB  | 1GB |
-| GPU | Content Cell  | 128MB graphics card (OpenGL 1.1 or higher compatible)  |
+| GPU | NVIDIA GeForce 5200/ATI Radeon 7500 or better | 128MB graphics card (OpenGL 1.1 or higher compatible)  |
 | HDD | 1GB | 1GB |
 
 ## LEGO Digital Designer version 4.3 is not available on PowerPC Macs Disclaimer
